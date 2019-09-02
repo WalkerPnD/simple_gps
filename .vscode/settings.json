@@ -1,0 +1,6 @@
+{
+  "terminal.integrated.env.osx": {
+    "PATH": "/Users/walker/.platformio/penv/bin:/Users/walker/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/walker/lib:/opt/oracle/instantclient_12_2:/Users/walker/tools:GOPATH=/Users/walker/project/go:/usr/local/go/bin:/Users/walker/dev/flutter/bin:/Users/walker/.pub-cache/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  }
+}
