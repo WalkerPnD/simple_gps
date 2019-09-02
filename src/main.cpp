@@ -2,13 +2,13 @@
 #include <SoftwareSerial.h>
 #include <ArduinoJson.h>
 #include <./gps/location-service.h>
-#include <./internet/http-client.h>
+#include <./internet/net-client.h>
 #define BAND_RATE 9600
 #define INTERVAL_SHORT 300
 
 // GPS
 LocationService location;
-HttpClient netClient;
+NetClient netClient;
 
 void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
